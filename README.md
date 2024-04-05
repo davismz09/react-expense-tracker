@@ -4,7 +4,7 @@ Este proyecto es una aplicación de seguimiento de gastos desarrollada en React.
 
 ## Créditos
 
-Este proyecto se basa en un tutorial de YouTube realizado por [FaztCode](https://github.com/fazttech), quien proporcionó el código original y la inspiración para esta aplicación. Puedes encontrar el tutorial original [aquí](https://www.youtube.com/watch?v=zN6xXtHww54) y el repositorio de FaztCode [aquí](https://github.com/fazt/react-expense-tracker).
+Este proyecto se basa en un tutorial de YouTube realizado por [FaztCode](https://www.youtube.com/@FaztCode), quien proporcionó el código original y la inspiración para esta aplicación. Puedes encontrar el tutorial original [aquí](https://www.youtube.com/watch?v=zN6xXtHww54) y el repositorio del código de FaztCode [aquí](https://github.com/fazt/react-expense-tracker).
 
 ## Características
 
